@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/Galachee/money-extension</RepositoryUrl>
     <PackageProjectUrl>https://github.com/Galachee/money-extension</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>icon.png</PackageIcon>
+    <PackageIcon>../Media/icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>PackageCourseVitorBalta</Title>
     <Summary>Extension to convert decimals to integer</Summary>
